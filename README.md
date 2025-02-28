@@ -1,4 +1,5 @@
 # Blend Mocap module <br>
+**Caution:** Requires external dependencies which can be installed via the add-on preferences with elevated privileges.
 
 ### Features
 - Detection of [Mediapipe](https://google.github.io/mediapipe/) detection results in stream or video
@@ -10,16 +11,10 @@
 # How to Install:
 After cloning this repo, compress it and then install it from Edit > Prefrences (or just click <Crtl ,>).
 Click on the dropdown triangle from the top right and click "Install From Disk..." select the compressed file
-Make sure to install dependencies by clicking on the "Install Dependencies from the dropdown"
+Make sure to install dependencies by clicking on the "Install Dependencies" from the dropdown
+Open the Layout side pannel, which will contain BlendAR tab.
+Select the video file, and change target to pose.
 
-
-
-### Mediapipe Detection
-
-Run Mediapipe within Blender to detect pose, hand, face or holistic features.
-BlendArMocap calculates rotation data based on the detection results at runtime to drive rigs.<br>
-
-**Caution:** Requires external dependencies which can be installed via the add-on preferences with elevated privileges.
 
 ### Transfer
 

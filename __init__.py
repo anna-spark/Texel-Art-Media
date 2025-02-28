@@ -19,12 +19,12 @@ Copyright (C) Denys Hsu, cgtinker, cgtinker.com, hello@cgtinker.com
 bl_info = {
     "name":        "BlendArMocap",
     "description": "Mediapipe and Freemocap animation transfer implementation for Blender 3.0+.",
-    "author":      "cgtinker",
-    "version":     (1, 6, 0),
+    "author":      "personooo/cgtinker",
+    "version":     (1, 1, 0),
     "blender":     (3, 0, 0),
     "location":    "3D View > Tool",
     "doc_url":    "https://cgtinker.github.io/BlendArMocap/",
-    "tracker_url": "https://github.com/cgtinker/BlendArMocap/issues",
+    "tracker_url": "https://github.com/Umer-K-PersonOOO/Texel-Art-Media/issues",
     "support":     "COMMUNITY",
     "category":    "Animation"
 }
