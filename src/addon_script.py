@@ -64,4 +64,4 @@ class BlenderMocapHandler():
 
     
 handler = BlenderMocapHandler()
-handler.detect("/home/personooo/Desktop/Code/Texel-Art-Media/src/Walk.mp4")
+handler.detect("~/backend/Texel-Art-Media/src/Walk.mp4")
